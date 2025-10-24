@@ -43,6 +43,7 @@ Visualization:
 Visualize using bar chart to represent authority and hub scores.
 
 Program:
+~~~
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -112,6 +113,7 @@ plt.legend()
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.tight_layout()
 plt.show()
+~~~
 Output:
 image image
 Result:
