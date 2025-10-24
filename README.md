@@ -1,7 +1,7 @@
 ### EX7 Implementation of Link Analysis using HITS Algorithm
 ### DATE: 24/10/2025
 ### NAME: ABIRAMI A
-### REGISTER NUMBER:212224040010
+### REGISTER NUMBER: 212224040010
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
